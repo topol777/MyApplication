@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">BIN Card</string>
+    <string name="bin" translatable="false">BIN</string>
+    <string name="country">Country</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="type">Type</string>
+    <string name="bank_url">URL</string>
+    <string name="bank_phone">Phone</string>
+    <string name="bank_name">Name</string>
+    <string name="bank_city">City</string>
+    <string name="request">Request from %1$s</string>
+    <string name="bank_title">Bank</string>
+    <string name="card_title">Credit card</string>
+    <string name="search_description">Make new request</string>
+    <string name="search">New request</string>
+    <string name="no_card_data">No card data</string>
+    <string name="list">All requests</string>
+    <string name="list_description">Show all requests</string>
+    <string name="error_title">An error occurred</string>
+    <string name="error_server">Server error, please try again later.</string>
+    <string name="code">Code: %1$d</string>
+    <string name="error_client">An error has occurred, please check the data you entered.</string>
+    <string name="error_network">Internet connection problem, please try again later.</string>
+    <string name="error_unknown_http">HTTP error.</string>
+    <string name="error_unknown">Unknown error.</string>
+    <string name="dismiss">Close</string>
+    <string name="error_limit">Request limit is reached, try again in an hour.</string>
+    <string name="delete">Delete requets from history.</string>
+    <string name="enter_bin">Enter BIN</string>
+</resources>
